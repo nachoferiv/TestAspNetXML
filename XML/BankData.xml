@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<banco>
+  <cuenta cuentanum="CU1230">
+    <cuentanombre>Miguel</cuentanombre>
+    <cuentasaldo>500</cuentasaldo>
+    <cuentasucursal>Badajoz</cuentasucursal>
+  </cuenta>
+  <cuenta cuentanum="CU1231">
+    <cuentanombre>Carlos</cuentanombre>
+    <cuentasaldo>5060</cuentasaldo>
+    <cuentasucursal>Moron</cuentasucursal>
+  </cuenta>
+  <cuenta cuentanum="CU1232">
+    <cuentanombre>Ruben</cuentanombre>
+    <cuentasaldo>4500</cuentasaldo>
+    <cuentasucursal>Moreno</cuentasucursal>
+  </cuenta>
+  <cuenta cuentanum="CU1233">
+    <cuentanombre>Martin</cuentanombre>
+    <cuentasaldo>1500</cuentasaldo>
+    <cuentasucursal>Castelar</cuentasucursal>
+  </cuenta>
+</banco>
